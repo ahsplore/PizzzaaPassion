@@ -3,5 +3,3 @@ Check out my simple web page created with Bootstrap! It's a sleek and straightfo
 
 # Checkout the web page:
 https://ahsplore.github.io/PizzzaaPassion/
-
-*First commit in master branch*
